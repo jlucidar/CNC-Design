@@ -1,0 +1,26 @@
+Last Not Complete Stopped@Line 15 |Cut Mode|  Elapsed: 00:01:44  ConsoleMvSpeed 2  FileEndSpeed 1.0    23:25:01  02-06-2016
+ File Completed:No  Ln:15 Max: 0.98, 0.71, 0.79  Min:- 0.98,- 0.71,- 0.20  Offset:no  Brks=2  TBCs: -3.641, -7.173, -1.225  Props: 1.000, 1.000, 1.000
+Last Not Complete Stopped@Line 2632 |Cut Mode|  Elapsed: 00:11:08  ConsoleMvSpeed 2  FileEndSpeed 1.0    23:36:36  02-06-2016
+ File Completed:No  Ln:2632 Max: 0.98, 0.71, 0.79  Min:- 0.98,- 0.71,- 1.01  Offset:no  Brks=1  TBCs: -3.641, -7.173, -1.225  Props: 1.000, 1.000, 1.000
+Last Complete  |Cut Mode|  Elapsed: 00:04:27  ConsoleMvSpeed 2  FileEndSpeed 1.0    23:43:21  02-06-2016
+ File Completed:Yes Ln:4746 Max: 0.98, 0.71, 0.79  Min:- 0.98,- 0.71,- 1.81  Offset:no  Brks=0  TBCs: -4.036, -7.212, -1.195  Props: 1.000, 1.000, 1.000
+Last Not Complete Stopped@Line 4492 |Cut Mode|  Elapsed: 00:07:57  ConsoleMvSpeed 2  FileEndSpeed 1.0    00:00:44  02-07-2016
+ File Completed:No  Ln:4492 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 1.81  Offset:no  Brks=1  TBCs: -4.235, -7.027, -1.188  Props: 1.000, 1.000, 1.000
+Last Not Complete Stopped@Line 15 |Cut Mode|  Elapsed: 00:03:04  ConsoleMvSpeed 2  FileEndSpeed 1.0    00:22:44  02-07-2016
+ File Completed:No  Ln:15 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 0.20  Offset:no  Brks=1  TBCs: -.015, .000, -.834  Props: 1.000, 1.000, 1.000
+Last Not Complete Stopped@Line 2206 |Cut Mode|  Elapsed: 00:05:37  ConsoleMvSpeed 2  FileEndSpeed 1.0    00:28:34  02-07-2016
+ File Completed:No  Ln:2206 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 1.01  Offset:no  Brks=1  TBCs: -.015, .000, -.834  Props: 1.000, 1.000, 1.000
+Last Complete  |Cut Mode|  Elapsed: 00:04:29  ConsoleMvSpeed 2  FileEndSpeed 1.0    00:34:37  02-07-2016
+ File Completed:Yes Ln:4872 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 1.81  Offset:no  Brks=0  TBCs: -.462, -.501, -.779  Props: 1.000, 1.000, 1.000
+Last Complete  |Cut Mode|  Elapsed: 00:04:30  ConsoleMvSpeed 2  FileEndSpeed 1.0    00:47:01  02-07-2016
+ File Completed:Yes Ln:4872 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 1.81  Offset:no  Brks=0  TBCs: -.526, .821, -1.021  Props: 1.000, 1.000, 1.000
+Last Not Complete Stopped@Line 83 |Cut Mode|  Elapsed: 00:00:30  ConsoleMvSpeed 2  FileEndSpeed 1.0    01:01:27  02-07-2016
+ File Completed:No  Ln:83 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 0.20  Offset:no  Brks=1  TBCs: -.526, .821, -.886  Props: 1.000, 1.000, 1.000
+Last Complete  |Cut Mode|  Elapsed: 00:04:34  ConsoleMvSpeed 2  FileEndSpeed 1.0    01:06:53  02-07-2016
+ File Completed:Yes Ln:4872 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 1.81  Offset:no  Brks=0  TBCs: -.252, .699, -.886  Props: 1.000, 1.000, 1.000
+Last Complete  |Cut Mode|  Elapsed: 00:04:30  ConsoleMvSpeed 2  FileEndSpeed 1.0    01:19:49  02-07-2016
+ File Completed:Yes Ln:4872 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 1.81  Offset:no  Brks=0  TBCs: -.348, .540, -1.014  Props: 1.000, 1.000, 1.000
+Last Not Complete Stopped@Line 3791 |Cut Mode|  Elapsed: 00:03:54  ConsoleMvSpeed 2  FileEndSpeed 1.0    10:21:24  02-07-2016
+ File Completed:No  Ln:3791 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 1.61  Offset:no  Brks=1  TBCs: .135, .211, -1.095  Props: 1.000, 1.000, 1.000
+Last Complete  |Cut Mode|  Elapsed: 00:04:29  ConsoleMvSpeed 2  FileEndSpeed 1.0    11:08:33  02-07-2016
+ File Completed:Yes Ln:4872 Max: 1.00, 0.73, 0.79  Min:- 1.00,- 0.73,- 1.81  Offset:no  Brks=0  TBCs: .931, -.878, -1.070  Props: 1.000, 1.000, 1.000
